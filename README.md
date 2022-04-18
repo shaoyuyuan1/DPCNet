@@ -1,8 +1,5 @@
 
 
- 
- 
-<p align="center"> <img src="http://randla-net.cs.ox.ac.uk/imgs/Fig3.png" width="100%"> </p>
 
 
 	
